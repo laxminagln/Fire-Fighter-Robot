@@ -1,18 +1,28 @@
 # Components
-01. Arduino UNO
-![Arduino UNO]()
-3. Servo Motor 
-![Servo Motor](https://www.google.com/url?sa=i&url=https%3A%2F%2Felectronicsinfra.com%2Fproduct%2Fservo-motor%2F&psig=AOvVaw1ONiavlHl5W1vSJuveyH1t&ust=1680605999118000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi256XHjf4CFQAAAAAdAAAAABAO)
-5. Mini DC Submersible Pump 
-6. L298 motor driver module
-7. L293D Motor Driver Module 
-8. Flame  sensor module
-9. USB-A to Micro-USB cable
-10. Car chassis
-11. 12V Battery
-12. On-Off- Switch
-13. DC Female Connector Jack 
-14. Connecting wires
+1. Arduino UNO
+![Screenshot](screenshot.png)
+2. Servo Motor 
+![Screenshot](screenshot.png)
+3. Mini DC Submersible Pump 
+![Screenshot](screenshot.png)
+4. L298 motor driver module
+![Screenshot](screenshot.png)
+5. L293D Motor Driver Module 
+![Screenshot](screenshot.png)
+6. Flame  sensor module
+![Screenshot](screenshot.png)
+7. USB-A to Micro-USB cable
+![Screenshot](screenshot.png)
+8. Car chassis
+![Screenshot](screenshot.png)
+9. 12V Battery
+![Screenshot](screenshot.png)
+10. On-Off- Switch
+![Screenshot](screenshot.png)
+11. DC Female Connector Jack 
+![Screenshot](screenshot.png)
+12. Connecting wires
+![Screenshot](screenshot.png)
 
 # Software
 Arduino IDE
