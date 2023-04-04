@@ -1,6 +1,6 @@
 # Components
 1. Arduino UNO
-![Screenshot](screenshot.png)
+![Screenshot](Images/ArduinoUNO.jpg)
 2. Servo Motor 
 ![Screenshot](screenshot.png)
 3. Mini DC Submersible Pump 
