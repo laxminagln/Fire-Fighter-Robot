@@ -2,23 +2,23 @@
 1. Arduino UNO <br>
 ![](Images/ArduinoUNO.jpg)
 2. Servo Motor 
-![Screenshot](screenshot.png)
+![](Images/ServoMotor.jpeg)
 3. Mini DC Submersible Pump 
-![Screenshot](screenshot.png)
+![](Images/Pump.png)
 4. L298 motor driver module
-![Screenshot](screenshot.png)
+![](Images/L298N.jpg)
 5. L293D Motor Driver Module 
-![Screenshot](screenshot.png)
-6. Flame  sensor module
-![Screenshot](screenshot.png)
+![](Images/L293D.png)
+6. Flame sensor module
+![](Images/flame.jpg)
 7. USB-A to Micro-USB cable
-![Screenshot](screenshot.png)
+![](Images/usb.jpg)
 8. Car chassis
-![Screenshot](screenshot.png)
+![](Images/car_chassis.png)
 9. 12V Battery
 10. On-Off- Switch
 11. DC Female Connector Jack 
-![Screenshot](screenshot.png)
+![](Images/dc_connector.jpg)
 12. Connecting wires
 
 # Software
