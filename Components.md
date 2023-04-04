@@ -16,13 +16,10 @@
 8. Car chassis
 ![Screenshot](screenshot.png)
 9. 12V Battery
-![Screenshot](screenshot.png)
 10. On-Off- Switch
-![Screenshot](screenshot.png)
 11. DC Female Connector Jack 
 ![Screenshot](screenshot.png)
 12. Connecting wires
-![Screenshot](screenshot.png)
 
 # Software
 Arduino IDE
