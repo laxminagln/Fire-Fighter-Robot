@@ -15,8 +15,8 @@
 <img src="Images/usb.jpg" width="200">
 8. Car chassis <br>
 <img src="Images/car_chassis.png" width="200">
-9. 12V Battery
-10. On-Off- Switch
+9. 12V Battery <br>
+10. On-Off- Switch <br>
 11. DC Female Connector Jack <br>
 <img src="Images/dc_connector.jpg" width="200">
 12. Connecting wires
