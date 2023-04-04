@@ -1,5 +1,5 @@
 # Components
-1. Arduino UNO 
+1. Arduino UNO <br>
 ![](https://github.com/laxminagln/Fire-Fighter-Robot/edit/main/Images/ArduinoUNO.jpg|width=100)
 2. Servo Motor 
 ![Screenshot](screenshot.png)
