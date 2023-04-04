@@ -1,5 +1,5 @@
 # Components
-1. Arduino UNO \
+1. Arduino UNO 
 ![](Images/ArduinoUNO.jpg | width=100)
 2. Servo Motor 
 ![Screenshot](screenshot.png)
