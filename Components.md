@@ -1,6 +1,6 @@
 # Components
-1. Arduino UNO
-![Screenshot](Images/ArduinoUNO.jpg)
+1. Arduino UNO \
+![](Images/ArduinoUNO.jpg | width=100)
 2. Servo Motor 
 ![Screenshot](screenshot.png)
 3. Mini DC Submersible Pump 
