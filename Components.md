@@ -1,6 +1,6 @@
 # Components
 1. Arduino UNO 
-![](Images/ArduinoUNO.jpg | width=100)
+![](https://github.com/laxminagln/Fire-Fighter-Robot/edit/main/Images/ArduinoUNO.jpg|width=100)
 2. Servo Motor 
 ![Screenshot](screenshot.png)
 3. Mini DC Submersible Pump 
